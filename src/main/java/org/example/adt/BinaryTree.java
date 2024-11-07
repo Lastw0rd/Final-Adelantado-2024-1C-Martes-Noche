@@ -8,6 +8,6 @@ public interface BinaryTree {
     BinaryTree getLeft();
     BinaryTree getRight();
     void deleteLeft();
-    void deleteRight();
+    void deleteRight();//hola
 
 }
